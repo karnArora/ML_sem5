@@ -5,4 +5,4 @@ from linear regression to decision tree regression and classification models fro
 
 unsupervised models such as PCA has also been used for image reconstruction
 
-this repo consists of notebooks as well as pdf forms of the assignments.
+this repo consists of notebooks as well as pdf forms of the assignments and contains the api write ups .
